@@ -1,0 +1,7 @@
+node_modules/
+views/
+meta/
+docs/
+helpers/env/
+.DS_Store
+

@@ -1,0 +1,122 @@
+[
+    {
+        "professorName": "John Smith",
+        "department": "Computer Science",
+        "background": "PhD in Computer Science. Expert in Machine Learning and Artificial Intelligence. Worked with Yann LeCun on Convolutional Neural Networks.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Jane Doe",
+        "department": "Mathematics",
+        "background": "PhD in Mathematics. Area of research is topological manifolds. Recipient of the Clay Millennium Prize.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Emily Johnson",
+        "department": "Physics",
+        "background": "PhD in Physics. Specializes in Quantum Mechanics. Published multiple papers on Quantum Entanglement.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Michael Brown",
+        "department": "Biology",
+        "background": "PhD in Biology. Expert in Genetic Engineering. Worked on CRISPR technology.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Sara Williams",
+        "department": "Political Science",
+        "background": "PhD in Political Science. Specializes in anti-poverty policies. Former consultant for the United Nations.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "William Davis",
+        "department": "Philosophy",
+        "background": "PhD in Philosophy. Expert in Kantian ethics. Published multiple books on moral philosophy.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Elizabeth Garcia",
+        "department": "History",
+        "background": "PhD in History. Specializes in Medieval Europe. Worked on deciphering ancient manuscripts.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "James Wilson",
+        "department": "English",
+        "background": "PhD in English Literature. Expert on Shakespearean plays. Published critical analysis on 'Hamlet'.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Nancy Moore",
+        "department": "Psychology",
+        "background": "PhD in Psychology. Specializes in Cognitive Behavioral Therapy. Published research on mental health.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Christopher Taylor",
+        "department": "Economics",
+        "background": "PhD in Economics. Expert in Macroeconomics. Worked with the Federal Reserve on economic policies.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Jessica Anderson",
+        "department": "Art",
+        "background": "Master of Fine Arts. Specializes in contemporary art. Exhibited in multiple international art galleries.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    },
+    {
+        "professorName": "Daniel Thomas",
+        "department": "Music",
+        "background": "Master of Music. Expert in classical compositions. Worked with Berlin Philharmonic Orchestra.",
+        "courses": [],
+        "ratingCount": 0,
+        "ratingTotal": 0,
+        "tags": [],
+        "rating": null
+    }
+]
