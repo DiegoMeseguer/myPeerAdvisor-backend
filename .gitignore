@@ -3,5 +3,6 @@ views/
 meta/
 docs/
 helpers/env/
+helpers/html
 .DS_Store
 
